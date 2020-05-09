@@ -1,5 +1,6 @@
 # Eye Tracking System for Electric Wheelchair Control          			             
 This is a real-time eye tracking framework that renders any electric wheelchair driven by eye movements.
+It implements a Convolutional Neural Network that performs gaze estimation on an embedded platform with an accuracy of 99.3% and at a frame rate of 99 FPS.
 <p align="center">
   <img src="https://github.com/dahhmani/Eye-Controlled-Wheelchair/blob/master/Demo/WholeSystem.gif?raw=true">
 </p>
